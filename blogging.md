@@ -22,10 +22,9 @@ A blog without illustrations is a bit sad no? You will have to use your talent a
 If you are gifted in the graphics, you can also show it by making a beautiful banner and assemblies at the top to illustrate your blog. To go further, you can even make tutorials for Photoshop or Illustrator for your readers for example!
 
 Some references:
+[Github](https://uxf8v.github.io/)
 
-[github](https://uxf8v.github.io/)
-
-[siii](http://siii.club/)
+[Siii](http://siii.club/)
 
 [Wikipedia](http://wikipedia.org)
 
