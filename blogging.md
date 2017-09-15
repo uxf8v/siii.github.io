@@ -1,6 +1,6 @@
 ### For whom blogging?
 
-Blogging is accessible to anyone with a desire to share their passions. And yes, even you can do it! All you have to do is choose the different themes you want to discuss in order to define your editorial line. It is very important because your readers will follow you through the subjects you are dealing with. If you talk about everything and anything, they will get tired very quickly because your content will no longer be relevant enough to them. So it is necessary to think about it from the beginning.
+Blogging is accessible to anyone with a desire to [share their passions](http://siii.club/blogging/what-is-a-blog/). And yes, even you can do it! All you have to do is choose the different themes you want to discuss in order to define your editorial line. It is very important because your readers will follow you through the subjects you are dealing with. If you talk about everything and anything, they will get tired very quickly because your content will no longer be relevant enough to them. So it is necessary to think about it from the beginning.
 
 As said, everyone can create a blog, but know that there are still some qualities that can help you. Perseverance is one of the most important. It will serve you to keep your blog as long as possible! In the beginning everything is beautiful, you are hyper mega motivated, you see yourself go very far. But after a few weeks, the number of comments will still not take off, and your number of visits either. It is at this moment that you will have to show your perseverance!
 If you are also organized, it will help you a lot in the management of your blog. You can define your editorial planning, choose niches for the writing of your articles, in short, manage it as a pro!
@@ -24,10 +24,10 @@ If you are gifted in the graphics, you can also show it by making a beautiful ba
 
 Some references:
 
-[Github](https://uxf8v.github.io/)
+* [Github](https://uxf8v.github.io/)
 
-[Siii](http://siii.club/)
+* [Siii](http://siii.club/)
 
-[Wikipedia](http://wikipedia.org)
+* [Wikipedia](http://wikipedia.org)
 
 
