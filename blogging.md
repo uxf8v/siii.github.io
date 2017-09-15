@@ -21,7 +21,9 @@ Whether you're on a free platform like Blogger, or you want to have a blog with 
 A blog without illustrations is a bit sad no? You will have to use your talent as a photographer to illustrate your articles! But if you're really not comfortable with this, do not panic, you can always use images free of rights, it's simple but very effective.
 If you are gifted in the graphics, you can also show it by making a beautiful banner and assemblies at the top to illustrate your blog. To go further, you can even make tutorials for Photoshop or Illustrator for your readers for example!
 
+
 Some references:
+
 [Github](https://uxf8v.github.io/)
 
 [Siii](http://siii.club/)
